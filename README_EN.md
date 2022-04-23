@@ -17,7 +17,7 @@
 
 1. **Freelance Web Developer** 01/22-now
     1. I am currently a freelancer working on some small projects.
-2. **Senior Front-end Web Developer** - Dragon Trail Interactive(北京时代一峰信息技术有限公司/龙途互动) 04/18-4/21
+2. **Senior Front-end Web Developer** - Dragon Trail Interactive 04/18-4/21
     1. I created web apps with React/Vue/Angular/Laravel/MySQL, WeChat mini programs with WePY/mpvue/Taro, and mobile apps with React Native.
 3. **Front-end Web Developer** - 蓝石创想（北京）科技有限公司 2/16-11/17
     1. I created web apps with Angular/Laravel/MySQL, and mobile apps with Ionic.
@@ -33,9 +33,7 @@
 ### 1. Web Slideshow Creator
 
 > - user website: https://user.slideshow.projects.linwise.com
->   - user: superadmin@blue.com pass: blue123
 > - admin website: https://admin.slideshow.projects.linwise.com
->   - user: superadmin@blue.com pass: blue123
 
  It's a project to create slideshows like [webslides.tv](https://webslides.tv) without coding. Users can share slideshows and templates among company accounts. Users can share slideshows with a password, can remotely control a slideshow to switch slides/play video like doing a presentation. Admins can manage companies and global templates. I independently created this project with Angular/Laravel/MySQL/[NG-ZORRO](https://ng.ant.design)/[Socket.IO](https://socket.io).
 
@@ -84,7 +82,6 @@ It is one single responsive page, with image lazy loading. I simply created it w
 
 > - website：http://daren.projects.linwise.com
 > - admin page：http://daren.projects.linwise.com/admin
->   - user：superadmin@blue.com pass：blue123
 
 It is a similar site to [zaih.com](https://www.zaih.com), but focuses on the overseas study consultation. I was responsible for requirement analysis, database design, development of the admin panel, and the project was delivered on schedule.
 
@@ -99,21 +96,18 @@ The project is bilingual. I was responsible for database design, front-end homep
 #### Stage 1
 
 > - website: https://genecrab-report.projects.linwise.com
->   - user: superadmin@blue.com pass: blue123
 
 It is a system used to generate reports according to a patient's gene mutation data and mutation related drugs. I was responsible for requirement analysis, database design, and drug usage dictionary module development, report data editing. We used Laravel/pjax/Sass/Bootstrap.
 
 #### Stage 2
 
 > - website: https://genecrab-report-angular.projects.linwise.com/login
->   - user: superadmin@blue.com pass: blue123
 
 Requirements of stage 2 was too complex not to use a frontend framework. I was responsible for report editing and report PDF file generation. We used angular and [NG-ZORRO](https://ng.ant.design) to do the front-end work. I used [PrinceXML](https://www.princexml.com) to generate complex PDF file.
 
 ### 12. A sample tracking app
 
 > - Android app download url: https://pan.baidu.com/s/1Hn4gRnCZRJQ-HET86v830Q code: z5nu
->   - user: superadmin@blue.com pass: blue123
 
 This app was used by salesperson to track blood/tissue samples and manage patients and orders. I independently created this android app with Ionic framework and implemented [JPush(极光推送)](https://www.jiguang.cn) plugin to send notifications, and implemented [Crosswalk](http://crosswalk-project.org) to improve performance. The main functions include fingerprint authentication, notification, dynamic forms, photo batch compression/uploading, sample/patient/order management.
 
