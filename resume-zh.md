@@ -36,7 +36,7 @@
 > - 用户端网址：https://user.slideshow.projects.linwise.com
 > - 管理端网址：https://admin.slideshow.projects.linwise.com
 
- 这是一个无需编码即可创建像 [webslides.tv](https://webslides.tv) 这样的幻灯片的项目。用户可以在公司帐户之间共享幻灯片和模板。用户可以通过密码共享幻灯片，可以远程控制幻灯片切换/播放视频，就像做演讲时的PPT演示一样。管理员可以管理公司和全局模板。这个项目是我使用 Angular/Laravel/MySQL/[NG-ZORRO](https://ng.ant.design)/[Socket.IO](https://socket.io) 独立开发的。
+ 这是一个无需编码即可创建像 [webslides.tv](https://webslides.tv) 这样的幻灯片的项目（用户端与管理端不可同时登录）。用户可以在公司帐户之间共享幻灯片和模板。用户可以通过密码共享幻灯片，可以远程控制幻灯片切换/播放视频，就像做演讲时的PPT演示一样。管理员可以管理公司和全局模板。这个项目是我使用 Angular/Laravel/MySQL/[NG-ZORRO](https://ng.ant.design)/[Socket.IO](https://socket.io) 独立开发的。
 
 ### 2. 一个旅游推广SPA（仅可在微信里玩）
 

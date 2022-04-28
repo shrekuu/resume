@@ -38,7 +38,7 @@
 > - user website: https://user.slideshow.projects.linwise.com
 > - admin website: https://admin.slideshow.projects.linwise.com
 
- It's a project to create slideshows like [webslides.tv](https://webslides.tv) without coding. Users can share slideshows and templates among company accounts. Users can share slideshows with a password, can remotely control a slideshow to switch slides/play video like doing a presentation. Admins can manage companies and global templates. I independently created this project with Angular/Laravel/MySQL/[NG-ZORRO](https://ng.ant.design)/[Socket.IO](https://socket.io).
+ It's a project to create slideshows like [webslides.tv](https://webslides.tv) without coding(Do not log in both website at the same time). Users can share slideshows and templates among company accounts. Users can share slideshows with a password, can remotely control a slideshow to switch slides/play video like doing a presentation. Admins can manage companies and global templates. I independently created this project with Angular/Laravel/MySQL/[NG-ZORRO](https://ng.ant.design)/[Socket.IO](https://socket.io).
 
 ### 2. A tourism promotion SPA(built to run in WeChat only)
 
