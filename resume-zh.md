@@ -1,6 +1,6 @@
 # Web 前端开发-史林-求职-远程
 
-[简体中文](./README.md) | [English](./README_EN.md)
+[简体中文](./resume-zh.md) | [English](./resume-en.md)
 
 - **邮箱：** [shrekuu@163.com](mailto:shrekuu@163.com) **QQ：** [562063003](http://wpa.qq.com/msgrd?v=3&uin=562063003&site=qq&menu=yes)
 - 英语专业 8 级，7 年 Web 前后端/小程序/移动端应用开发经验

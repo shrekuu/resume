@@ -1,6 +1,6 @@
 # Lin Shi - Web Front-end Developer - For Hire - Remote
 
-[简体中文](./README.md) | [English](./README_EN.md)
+[简体中文](./resume-zh.md) | [English](./resume-en.md)
 
 - **Email:** shrekuu@163.com **QQ:** 562063003
 - Based in Baoji City, Shaanxi Province, China/GMT +8.
