@@ -1,4 +1,4 @@
-# Lin Shi - Web Developer/Mobile App Developer - For Hire - Remote
+# Lin Shi - Web Front-end Developer - For Hire - Remote
 
 [简体中文](./README.md) | [English](./README_EN.md)
 
@@ -21,7 +21,7 @@
     1. I created web apps with React/Vue/Angular/Laravel/MySQL, WeChat mini programs with WePY/mpvue/Taro, and mobile apps with React Native.
 3. **Front-end Web Developer** - 蓝石创想（北京）科技有限公司 2/16-11/17
     1. I created web apps with Angular/Laravel/MySQL, and mobile apps with Ionic.
-4. **Front-end Web Developer** - Xi'an Hundred Lanterns Network Technology Co., Ltd.(西安佰登网络科技有限公司) 9/13-1/16
+4. **Front-end Web Developer** - Xi'an Hundred Lanterns Network Technology Co., Ltd. 9/13-1/16
     1. I created web apps with AngularJS/Backbone/Underscore/jQuery/Grunt/Gulp/Zend Framework/[Compound.js](http://compoundjs.com)/MySQL, and mobile apps with Cordova.
 
 ## Demo Apps
