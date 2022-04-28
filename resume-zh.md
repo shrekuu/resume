@@ -6,6 +6,7 @@
 - **邮箱：** [shrekuu@163.com](mailto:shrekuu@163.com) **QQ：** [562063003](http://wpa.qq.com/msgrd?v=3&uin=562063003&site=qq&menu=yes)
 - 西外英语专业，英语专业 8 级
 - 7 年Web前后端/小程序/移动端应用开发经验
+- 期望薪资：20K
 
 ## 我擅长
 
@@ -110,6 +111,6 @@
 
 > [示例安卓应用下载](https://sample-tracking.projects.linwise.com/upload/genecast-sample-tracking-dev.apk)
 
-某生信公司销售人员用来跟踪血液/组织样本并管理患者和订单的应用。此应用是我使用了 Ionic 框架独立开发完成。此应用主要功能有指纹认证登录、极光推送通知、动态表单控件、拍照与照片批量压缩上传、样本、患者和订单信息的增删改查及搜索。集成 [Crosswalk](http://crosswalk-project.org) 以提高性能。
+某生信公司销售人员用来跟踪血液/组织样本并管理患者和订单的应用。此应用是我使用了 Ionic 框架独立开发完成。主要功能有指纹认证登录、极光推送通知、动态表单控件、拍照与照片批量压缩上传、样本、患者和订单信息的增删改查及搜索。集成 [Crosswalk](http://crosswalk-project.org) 以提高性能。
 
 感谢您的阅读 :)
