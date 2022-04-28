@@ -9,9 +9,9 @@
 
 ## 我擅长
 
-- 使用 React/Vue/Angular/PHP/Laravel 开发高性能、高可维护的网站；
+- 使用 React/Vue/Angular/PHP/Laravel 开发高性能网站应用；
 - 使用 [Taro](https://taro.zone) 框架开发健壮的微信小程序；
-- 使用 Ionic Framework/React Native 开发高性能的 iOS 和 Android 应用；
+- 使用 Ionic/React Native 开发健壮的 iOS 和 Android 应用；
 
 ## 工作经历
 
@@ -20,16 +20,13 @@
 2. 2018年4月-2021年4月 **高级 Web 前端开发** - 西安途秀信息技术有限公司(龙途互动)
     1. 主要负责公司项目的 Web 前后端功能开发，微信小程序开发，移动端原生应用开发。前端主要使用到 React/Vue/Angular，小程序开发使用 WePY/mpvue/Taro，移动端使用 React Native，后端主要使用到 Laravel/MySQL。
 3. 2016年2月-2017年11月 **Web 前端开发** - 蓝石创想（北京）科技有限公司
-    1. 主要负责公司项目的需求分析、技术选型与指导、功能开发与维护、服务器配置与项目布署、文档编写与维护。前端主要用到 Angular，移动端使用 Ionic Framework，后端使用 Laravel/MySQL。
+    1. 主要负责公司项目的需求分析、技术选型与指导、功能开发与维护、服务器配置与项目布署、文档编写与维护。前端主要用到 Angular，移动端使用 Ionic，后端使用 Laravel/MySQL。
 4. 2013年9月-2016年1月 **Web 前端开发** - 西安佰登网络科技有限公司
     1. 主要负责公司运营的英语学习项目前后端及混合应用的开发维护，及其它国外项目的功能开发与维护。前端主要使用到 AngularJS/Backbone/Underscore/jQuery/Grunt/Gulp，移动端主要使用到 Cordova，后端主要使用到 PHP/Zend Framework/[Compound.js](http://compoundjs.com)/MySQL。
 
 ## 作品示例
 
-> 我在我的服务器（linwise.com）上部署了几个客户已废弃项目。 \
-> 演示数据是用 Laravel  seeder 生成的。 \
-> 演示图片来自我的[图片占位网站](https://placeholdit.projects.linwise.com/)。 \
-> 有设计稿的项目当然我仅做开发，不参与页面设计。 \
+> 我在我的服务器（linwise.com）上部署了几个示例项目，演示数据是用 Laravel  seeder 生成的。演示图片来自我的[图片占位网站](https://placeholdit.projects.linwise.com/)。有设计稿的项目当然我仅做开发，不参与页面设计。 \
 > linwise.com 域名下，要登录的地方都可以使用下面帐号登录。 \
 > 用户名：superadmin@blue.com 密码：blue123
 
@@ -84,7 +81,7 @@
 ### 9. 答人留学官网
 
 > - 网址：http://daren.projects.linwise.com
-> - 管理端网址：http://daren.projects.linwise.com/admin
+> - 管理后台网址：http://daren.projects.linwise.com/admin
 
 功能类似 『在行』(zaih.com) 的留学咨询项目。项目主要分为两大模块：面向学员与达人的预约、评价、认证的前台，面向管理员的数据更新与审核的后台。我主要与甲方详聊需求，划分功能模块，然后负责数据库设计，基础框架搭建，后台管理模块前后端开发，并辅助前台前端开发，项目如期交付。
 
@@ -99,20 +96,20 @@
 
 #### 一期开发
 
-> - 测试网址：https://genecrab-report.projects.linwise.com
+> - 网址：https://genecrab-report.projects.linwise.com
 
 这是某公司内部员工使用的报告系统，他们需要一个能够根据用户的基因检测结果，生成一份有针对性的用药报告的系统。具体将患者的 DNA 检测结果在系统用药字典数据里查询得到针对患者的可靠用药信息，医学人员在线编辑审核后，后台生成 Word/PDF 格式报告下载下来。此项目分为两期，一期我与老板同去北京甲方公司驻厂参与需求分析与功能模块划分。回西安后我主要负责数据库设计（主要为用药字典数据与用户报告信息数据），项目基础框架搭建，用药字典模块与报告编辑流程模块开发。主要使用到 Laravel/pjax/Sass/Bootstrap。
 
 #### 二期开发
 
-> - 测试网址：http://genecrab-report-angular.projects.linwise.com
+> - 网址：http://genecrab-report-angular.projects.linwise.com
 
 二期功能，前后端分离，前端由 Bootstrap + jQuery 换为 [NG-ZORRO](https://ng.ant.design)，我主要负责前端框架搭建，报告编辑流程，使用 [PrinceXML](https://www.princexml.com) 渲染复杂的 PDF 报告样式布局，带领前端小团队，培训新人，帮助解决项目遇到的各种前后端难题。
 
 ### 12. 一个样本追踪应用
 
-> - 示例安卓应用下载链接：https://pan.baidu.com/s/1Hn4gRnCZRJQ-HET86v830Q 提取码：z5nu
+> [示例安卓应用下载](https://sample-tracking.projects.linwise.com/upload/genecast-sample-tracking-dev.apk)
 
-某生信公司销售人员用来跟踪血液/组织样本并管理患者和订单的应用。使用了 Ionic 框架，由于给出的 UI 稿与 Ionic 框架组件样式大不相同，基本整个 app 样式都未使用框架组件默认样式。此应用主要功能有指纹认证登录、极光推送通知、动态表单控件、拍照与照片批量压缩上传、样本、患者和订单信息的增删改查及搜索。集成 [Crosswalk](http://crosswalk-project.org) 以提高性能。
+某生信公司销售人员用来跟踪血液/组织样本并管理患者和订单的应用。此应用是我使用了 Ionic 框架独立开发完成。此应用主要功能有指纹认证登录、极光推送通知、动态表单控件、拍照与照片批量压缩上传、样本、患者和订单信息的增删改查及搜索。集成 [Crosswalk](http://crosswalk-project.org) 以提高性能。
 
 感谢您的阅读 :)

@@ -5,13 +5,13 @@
 - **Email:** [shrekuu@163.com](mailto:shrekuu@163.com) **QQ:** [562063003](http://wpa.qq.com/msgrd?v=3&uin=562063003&site=qq&menu=yes)
 - Based in Baoji City, Shaanxi Province, China(GMT +8).
 - Majored in English(passed TEM-8) at Xi'an International Studies University.
-- I have 7 years of experience in web development, WeChat miniprogram development, mobile app development.
+- I have 7 years of experience in web development, WeChat mini program development, mobile app development.
 
 ## I Specialize In
 
-- create performant websites with React/Vue/Angular/Laravel/MySQL with low maintenance;
-- create robust WeChat Mini Programs with [Taro](https://taro.zone) framework;
-- create performant iOS and Android apps with Ionic Framework/React Native;
+- create performant web app with React/Vue/Angular/Laravel/MySQL;
+- create robust WeChat mini programs with [Taro](https://taro.zone) framework;
+- create robust iOS and Android apps with Ionic/React Native;
 
 ## Work Experience
 
@@ -84,7 +84,7 @@ It is one single responsive page, with image lazy loading. I simply created it w
 ### 9. Daren Website(答人留学官网)
 
 > - website：http://daren.projects.linwise.com
-> - admin page：http://daren.projects.linwise.com/admin
+> - admin panel website：http://daren.projects.linwise.com/admin
 
 It is a similar site to [zaih.com](https://www.zaih.com), but focuses on the overseas study consultation. I was responsible for requirement analysis, database design, development of the admin panel, and the project was delivered on schedule.
 
@@ -111,8 +111,8 @@ Requirements of stage 2 was too complex not to use a frontend framework. I was r
 
 ### 12. A sample tracking app
 
-> - Android app download url: https://pan.baidu.com/s/1Hn4gRnCZRJQ-HET86v830Q code: z5nu
+> [Download the android demo app](https://sample-tracking.projects.linwise.com/upload/genecast-sample-tracking-dev.apk)
 
-This app was used by salesperson to track blood/tissue samples and manage patients and orders. I independently created this android app with Ionic framework and implemented [JPush(极光推送)](https://www.jiguang.cn) plugin to send notifications, and implemented [Crosswalk](http://crosswalk-project.org) to improve performance. The main functions include fingerprint authentication, notification, dynamic forms, photo batch compression/uploading, sample/patient/order management.
+This app was used by salesperson to track blood/tissue samples and manage patients and orders. I independently created this android app with Ionic and implemented [JPush(极光推送)](https://www.jiguang.cn) plugin to send notifications, and implemented [Crosswalk](http://crosswalk-project.org) to improve performance. The main functions include fingerprint authentication, notification, dynamic forms, photo batch compression/uploading, sample/patient/order management.
 
 Thank you for your time :)
