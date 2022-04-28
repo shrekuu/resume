@@ -2,7 +2,7 @@
 
 [简体中文](./README.md) | [English](./README_EN.md)
 
-- **邮箱：** shrekuu@163.com **QQ：** 562063003
+- **邮箱：** [shrekuu@163.com](mailto:shrekuu@163.com) **QQ：** [562063003](http://wpa.qq.com/msgrd?v=3&uin=562063003&site=qq&menu=yes)
 - 英语专业 8 级，7 年 Web 前后端/小程序/移动端应用开发经验
 
 ## 我擅长
@@ -15,7 +15,7 @@
 
 1. 2022年1月-现在 **『灵活就业』的 Web 开发**
     1. 目前为自由职业，接项目做，直到找到全职远程工作。
-2. 2018年4月-2021年4月 **高级 Web 前端开发** - 龙途互动
+2. 2018年4月-2021年4月 **高级 Web 前端开发** - 西安途秀信息技术有限公司(龙途互动)
     1. 主要负责公司项目的 Web 前后端功能开发，微信小程序开发，移动端原生应用开发。前端主要使用到 React/Vue/Angular，小程序开发使用 WePY/mpvue/Taro，移动端使用 React Native，后端主要使用到 Laravel/MySQL。
 3. 2016年2月-2017年11月 **Web 前端开发** - 蓝石创想（北京）科技有限公司
     1. 主要负责公司项目的需求分析、技术选型与指导、功能开发与维护、服务器配置与项目布署、文档编写与维护。前端主要用到 Angular，移动端使用 Ionic Framework，后端使用 Laravel/MySQL。
@@ -24,9 +24,12 @@
 
 ## 作品示例
 
-> 我在我的服务器（linwise.com）上部署了几个客户已废弃项目。
-> 演示数据是用 Laravel  seeder 生成的。
-> 演示图片来自我的[图片占位网站](https://placeholdit.projects.linwise.com/)。
+> 我在我的服务器（linwise.com）上部署了几个客户已废弃项目。 \
+> 演示数据是用 Laravel  seeder 生成的。 \
+> 演示图片来自我的[图片占位网站](https://placeholdit.projects.linwise.com/)。 \
+> 有设计稿的项目当然我仅做开发，不参与页面设计。 \
+> linwise.com 域名下，要登录的地方都可以使用下面帐号登录。 \
+> 用户名：superadmin@blue.com 密码：blue123
 
 ### 1. 在线幻灯片制作网站
 
@@ -86,6 +89,7 @@
 ### 10. 君和律所官网
 
 > - 网址：https://junhe.com
+> 示例后台网址：https://junhe.projects.linwise.com/admin
 
 项目为中英双语，主要分为前台展示与后台内容管理模块。部分功能并非中英都有。我主要负责数据库设计，基础框架搭建，前台首页样式布局，后台文章部分模块，辅助解决同事在开发过程中的遇到的部分问题，比如语言切换，动态嵌套表单，文件上传下载预览，富文本编辑器集成与配置等。主要使用到 pjax/Laravel/UEditor/Sass.
 
@@ -93,13 +97,13 @@
 
 #### 一期开发
 
-> - 测试网址：https://genecrab-report.projects.linwise.com/dashboard
+> - 测试网址：https://genecrab-report.projects.linwise.com
 
 这是某公司内部员工使用的报告系统，他们需要一个能够根据用户的基因检测结果，生成一份有针对性的用药报告的系统。具体将患者的 DNA 检测结果在系统用药字典数据里查询得到针对患者的可靠用药信息，医学人员在线编辑审核后，后台生成 Word/PDF 格式报告下载下来。此项目分为两期，一期我与老板同去北京甲方公司驻厂参与需求分析与功能模块划分。回西安后我主要负责数据库设计（主要为用药字典数据与用户报告信息数据），项目基础框架搭建，用药字典模块与报告编辑流程模块开发。主要使用到 Laravel/pjax/Sass/Bootstrap。
 
 #### 二期开发
 
-> - 测试网址：http://genecrab-report-angular.projects.linwise.com/login
+> - 测试网址：http://genecrab-report-angular.projects.linwise.com
 
 二期功能，前后端分离，前端由 Bootstrap + jQuery 换为 [NG-ZORRO](https://ng.ant.design)，我主要负责前端框架搭建，报告编辑流程，使用 [PrinceXML](https://www.princexml.com) 渲染复杂的 PDF 报告样式布局，带领前端小团队，培训新人，帮助解决项目遇到的各种前后端难题。
 

@@ -26,9 +26,12 @@
 
 ## Demo Apps
 
-> I deployed some abandoned apps on my server(linwise.com).
-> The demo data was generated with Laravel seeder.
-> Demo images are from my [image placeholder app](https://placeholdit.projects.linwise.com/).
+> I deployed some abandoned apps on my server(`linwise.com`). \
+> The demo data was generated with Laravel seeder. \
+> Demo images are from my [image placeholder app](https://placeholdit.projects.linwise.com/). \
+> I only did the coding part if there was a designer designing the UI. \
+> For apps under domain `linwise.com`, you can log in with credentials below. \
+> username: `superadmin@blue.com` password: `blue123`
 
 ### 1. Web Slideshow Creator
 
@@ -88,6 +91,7 @@ It is a similar site to [zaih.com](https://www.zaih.com), but focuses on the ove
 ### 10. Junhe Website(君和律所官网)
 
 > - website: https://junhe.com
+> demo admin panel website: https://junhe.projects.linwise.com/admin
 
 The project is bilingual. I was responsible for database design, front-end homepage development, and back-end article module development. I was also responsible for any difficulties encountered by team members during development, such as language switching, file upload/download/preview, rich text editor integration. We used pjax/Laravel/[UEditor](https://fex.baidu.com/ueditor)/Sass, etc.
 
@@ -101,7 +105,7 @@ It is a system used to generate reports according to a patient's gene mutation d
 
 #### Stage 2
 
-> - website: https://genecrab-report-angular.projects.linwise.com/login
+> - website: https://genecrab-report-angular.projects.linwise.com
 
 Requirements of stage 2 was too complex not to use a frontend framework. I was responsible for report editing and report PDF file generation. We used angular and [NG-ZORRO](https://ng.ant.design) to do the front-end work. I used [PrinceXML](https://www.princexml.com) to generate complex PDF file.
 
