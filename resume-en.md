@@ -2,7 +2,7 @@
 
 [简体中文](./resume-zh.md) | [English](./resume-en.md)
 
-- **Email:** shrekuu@163.com **QQ:** 562063003
+- **Email:** [shrekuu@163.com](mailto:shrekuu@163.com) **QQ:** [562063003](http://wpa.qq.com/msgrd?v=3&uin=562063003&site=qq&menu=yes)
 - Based in Baoji City, Shaanxi Province, China(GMT +8).
 - Majored in English(passed TEM-8) at Xi'an International Studies University.
 - I have 7 years of experience in web development, WeChat miniprogram development, mobile app development.
