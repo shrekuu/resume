@@ -3,7 +3,7 @@
 [简体中文](./resume-zh.md) | [English](./resume-en.md)
 
 - **Email:** shrekuu@163.com **QQ:** 562063003
-- Based in Baoji City, Shaanxi Province, China/GMT +8.
+- Based in Baoji City, Shaanxi Province, China(GMT +8).
 - Majored in English(passed TEM-8) at Xi'an International Studies University.
 - I have 7 years of experience in web development, WeChat miniprogram development, mobile app development.
 
@@ -13,7 +13,7 @@
 - create robust WeChat Mini Programs with [Taro](https://taro.zone) framework;
 - create performant iOS and Android apps with Ionic Framework/React Native;
 
-## Work Experiences
+## Work Experience
 
 1. **Freelance Web Developer** 01/22-now
     1. I am currently a freelancer working on some small projects.
