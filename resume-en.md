@@ -6,7 +6,7 @@
 - **Email:** [shrekuu@163.com](mailto:shrekuu@163.com) **QQ:** [562063003](http://wpa.qq.com/msgrd?v=3&uin=562063003&site=qq&menu=yes)
 - Majored in English(passed TEM-8) at Xi'an International Studies University.
 - I have 7 years of experience in web development, WeChat mini program development, mobile app development.
-- Expected Salary: 20K RMB/Month.
+- Expected Salary: 20-25K RMB/Month.
 
 ## I Specialize In
 
@@ -114,6 +114,6 @@ Requirements of stage 2 was too complex not to use a frontend framework. I was r
 
 > [Download the android demo app](https://sample-tracking.projects.linwise.com/upload/genecast-sample-tracking-dev.apk)
 
-This app was used by salesperson to track blood/tissue samples and manage patients and orders. I independently created this android app with Ionic and implemented [JPush(极光推送)](https://www.jiguang.cn) plugin to send notifications, and implemented [Crosswalk](http://crosswalk-project.org) to improve performance. The main functions include fingerprint authentication, notification, dynamic forms, photo batch compression/uploading, sample/patient/order management.
+This app was used by salespersons to track blood/tissue samples and manage patients and orders. I independently created this android app with Ionic and implemented [JPush(极光推送)](https://www.jiguang.cn) plugin to send notifications, and implemented [Crosswalk](http://crosswalk-project.org) to improve performance. The main functions include fingerprint authentication, notification, dynamic forms, photo batch compression/uploading, sample/patient/order management.
 
 Thank you for your time :)

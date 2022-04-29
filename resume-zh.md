@@ -6,7 +6,7 @@
 - **邮箱：** [shrekuu@163.com](mailto:shrekuu@163.com) **QQ：** [562063003](http://wpa.qq.com/msgrd?v=3&uin=562063003&site=qq&menu=yes)
 - 西外英语专业，英语专业 8 级
 - 7 年Web前后端/小程序/移动端应用开发经验
-- 期望薪资：20K
+- 期望薪资：20-25K
 
 ## 我擅长
 
