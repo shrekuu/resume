@@ -10,7 +10,7 @@
 
 ## I Specialize In
 
-- create performant web app with React/Vue/Angular/Laravel/MySQL;
+- create performant responsive web app with React/Vue/Angular/Laravel/MySQL;
 - create robust WeChat mini programs with [Taro](https://taro.zone) framework;
 - create robust iOS and Android apps with Ionic/React Native;
 
