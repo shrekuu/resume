@@ -3,7 +3,7 @@
 [简体中文](./resume-zh.md) | [English](./resume-en.md)
 
 - Lin Shi/Male/33/Based in Baoji City, Shaanxi Province.
-- **Email:** [shrekuu@163.com](mailto:shrekuu@163.com) **QQ:** [562063003](http://wpa.qq.com/msgrd?v=3&uin=562063003&site=qq&menu=yes)
+- **WeChat:** shrekuu (add with message: github) **Email:** [shrekuu@163.com](mailto:shrekuu@163.com) **QQ:** [562063003](http://wpa.qq.com/msgrd?v=3&uin=562063003&site=qq&menu=yes)
 - Majored in English(passed TEM-8) at Xi'an International Studies University.
 - I have 7 years of experience in web development, WeChat mini program development, mobile app development.
 - Expected Salary: 20-25K RMB/Month.

@@ -3,7 +3,7 @@
 [简体中文](./resume-zh.md) | [English](./resume-en.md)
 
 - 史林/男/33/已婚/居住在陕西宝鸡
-- **邮箱：** [shrekuu@163.com](mailto:shrekuu@163.com) **QQ：** [562063003](http://wpa.qq.com/msgrd?v=3&uin=562063003&site=qq&menu=yes)
+- **WeChat:** shrekuu (备注: github) **邮箱：** [shrekuu@163.com](mailto:shrekuu@163.com) **QQ：** [562063003](http://wpa.qq.com/msgrd?v=3&uin=562063003&site=qq&menu=yes)
 - 西外英语专业，英语专业 8 级
 - 7 年Web前后端/小程序/移动端应用开发经验
 - 期望薪资：20-25K
