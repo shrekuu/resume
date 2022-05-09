@@ -21,7 +21,7 @@
 2. 2018年4月-2021年4月 **高级 Web 前端开发** - 龙途互动
     1. 主要负责公司项目的 Web 前后端功能开发，微信小程序开发，移动端原生应用开发。前端主要使用到 React/Vue/Angular，小程序开发使用 WePY/mpvue/Taro，移动端使用 React Native，后端主要使用到 Laravel/MySQL。
 3. 2016年2月-2017年11月 **Web 前端开发** - 蓝石创想（北京）科技有限公司
-    1. 主要负责公司项目的需求分析、技术选型与指导、功能开发与维护、服务器配置与项目布署、文档编写与维护。前端主要用到 Angular，移动端使用 Ionic，后端使用 Laravel/MySQL。
+    1. 主要负责公司项目的需求分析、技术选型与指导、功能开发与维护、服务器配置与项目部署、文档编写与维护。前端主要用到 Angular，移动端使用 Ionic，后端使用 Laravel/MySQL。
 4. 2013年9月-2016年1月 **Web 前端开发** - 西安佰登网络科技有限公司
     1. 主要负责公司运营的英语学习项目前后端及混合应用的开发维护，及其它国外项目的功能开发与维护。前端主要使用到 AngularJS/Backbone/Underscore/jQuery/Grunt/Gulp，移动端主要使用到 Cordova，后端主要使用到 PHP/Zend Framework/[Compound.js](http://compoundjs.com)/MySQL。
 
