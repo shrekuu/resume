@@ -1,4 +1,4 @@
-# Lin Shi - Web Front-end Developer - For Hire - Remote
+# Lin Shi - Web Front-end Developer(Not for Hire for now 👻)
 
 [简体中文](./resume-zh.md) | [English](./resume-en.md)
 

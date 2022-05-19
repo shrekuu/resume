@@ -1,4 +1,4 @@
-# 7 年 web 前端开发-温柔的码农Bond-求带走
+# 7 年 web 前端开发-温柔的码农Bond-(已入职, 不找工作)
 
 > 也发到了[电鸭社区](https://eleduck.com/), 作为[新人露脸帖](https://eleduck.com/posts/OGfrGz). \
 > 你也可查看我的简历 [简体中文](./resume-zh.md) | [English](./resume-en.md), 大部分时候我并不设计页面, 我只是写代码, 哈哈哈~
