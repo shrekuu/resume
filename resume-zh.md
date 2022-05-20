@@ -10,8 +10,8 @@
 ## 我擅长
 
 - 使用 React/Vue/Angular/PHP/Laravel 开发高性能响应式网站；
-- 使用 [Taro](https://taro.zone) 框架开发健壮的微信小程序；
 - 使用 Ionic/React Native 开发健壮的 iOS 和 Android 应用；
+- 使用 [Taro](https://taro.zone) 框架开发健壮的微信小程序；
 
 ## 工作经历
 

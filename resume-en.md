@@ -6,13 +6,12 @@
 - **WeChat:** shrekuu (add with message: github) **Email:** [shrekuu@163.com](mailto:shrekuu@163.com) **QQ:** [562063003](http://wpa.qq.com/msgrd?v=3&uin=562063003&site=qq&menu=yes)
 - Majored in English(passed TEM-8) at Xi'an International Studies University.
 - I have 7 years of experience in web development, WeChat mini program development, mobile app development.
-- Expected Salary: 20-25K RMB/Month.
 
 ## I Specialize In
 
-- create performant responsive web app with React/Vue/Angular/Laravel/MySQL;
-- create robust WeChat mini programs with [Taro](https://taro.zone) framework;
-- create robust iOS and Android apps with Ionic/React Native;
+- developing performant responsive web app with React/Vue/Angular/Laravel/MySQL;
+- developing robust iOS and Android apps with Ionic/React Native;
+- developing robust WeChat mini programs with [Taro](https://taro.zone) framework;
 
 ## Work Experience
 
