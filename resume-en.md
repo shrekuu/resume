@@ -2,7 +2,7 @@
 
 [简体中文](./resume-zh.md) | [English](./resume-en.md)
 
-- Lin Shi/Male/33/Based in Baoji City, Shaanxi Province.
+- Lin Shi/Male/33/Based in China.
 - **WeChat:** shrekuu (add with message: github) **Email:** [shrekuu@163.com](mailto:shrekuu@163.com) **QQ:** [562063003](http://wpa.qq.com/msgrd?v=3&uin=562063003&site=qq&menu=yes)
 - Majored in English(passed TEM-8) at Xi'an International Studies University.
 - I have 7 years of experience in web development, WeChat mini program development, mobile app development.
@@ -15,8 +15,9 @@
 
 ## Work Experience
 
-1. **Freelance Web Developer** 01/22-now
-    1. I am currently a freelancer working on some small projects.
+1. **Frontend Web Developer** 05/22-now
+    1. I am creating web apps with React techstack!
+1. **Freelance Web Developer** 01/22-05/22
 2. **Senior Front-end Web Developer** - Dragon Trail Interactive 04/18-4/21
     1. I created web apps with React/Vue/Angular/Laravel/MySQL, WeChat mini programs with WePY/mpvue/Taro, and mobile apps with React Native.
 3. **Front-end Web Developer** - 蓝石创想（北京）科技有限公司 2/16-11/17
