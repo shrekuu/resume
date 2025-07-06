@@ -1,38 +1,80 @@
-[简体中文](./resume-zh.md)
+[简体中文版](./resume-zh.md)
 
-- **Lin Shi(Bond)**
-- Baoji, China
-- linkedin.com/in/shrekuu
-- Majored in English(passed TEM-8, Test for English majors-band 8) at Xi'an International Studies University
+# Lin Shi
 
-## Summary
+📍 Baoji, Shaanxi, China | ✉️ shrekuu@163.com | 🌐 [github.com/shrekuu](https://github.com/shrekuu)  
+🧑‍💻 10+ years of full-stack web development experience | Expert in React / Laravel / React Native / WeChat Mini Programs | TEM-8 (Test for English Majors, Band 8)  
+💡 Proven remote collaboration skills with a strong track record of independently delivering full-stack solutions
 
-Experienced Web Developer with 10 years of work in both frontend and backend web development, WeChat mini program development, and mobile app development(React Native), Proficient in React/Vue/Angular/Laravel. Seeking for challenging roles in building exciting apps.
+---
+
+## Tech Stack
+
+- Frontend: React, Vue, Angular, Next.js
+- Mobile: React Native (Expo), Ionic
+- Backend: Laravel, Nest.js, MySQL
+- Mini Programs: Taro, WePY, mpvue
+- Tools & Others: TypeScript, Webpack, Gulp, PrinceXML
+
+---
 
 ## Work Experience
 
-1. **Frontend Web Developer** - Aspecta 05/2022-now
-   1. We were building an digital identity product for developers. I lead a group of several developers to build web apps with React/Next.js/TypeScript tech stack for now.
+### Aspecta AI | Frontend Developer (Remote) | May 2023 – Apr 2025
 
-2. **Freelance Web Developer** 01/2022-05/2022
-   1. I was a freelancer, working remotely on React/Vue/Laravel/React Native(Expo) apps. I successfully delivered the apps on time.
+Built Web3 applications using React, Next.js, and TypeScript. Led the development of wallet integration and smart contract interaction modules. Managed a small frontend team and delivered multiple product releases.
 
-3. **Frontend Web Developer** - Dragon Trail International 04/2018-4/2021
-   1. Building web apps with React/Vue/Angular/Laravel, WeChat mini programs with WePY/mpvue/Taro, and mobile apps with React Native.
-       1. I built a web app for [webslides.tv](https://webslides.tv), which helps people to create web slides without writing html code alone.
-       2. I built the responsive UI like [Chile travel Official(智利国家旅游局官网)](http://chiletravelofficial.cn), [Beijing 2020 Online Forum](https://traveltrade.visitbeijing.com.cn/forum), [Beijing Product Catalogue](https://productcatalogue.traveltrade.visitbeijing.com.cn/product/list/cc8929b?lang=zh-CN), [Peru Product Catalogue](http://www.dingla.com/product/list/3e7517b), [LA Knowledge Bank](http://knowledgebank.hellola.cn). It was delivered on schedule.
-       3. A German Self-driving & Shopping Travel Guide app(德国自驾购物 app), which includes a lot of practical information for Chinese travelers to Germany. I built the app with React Native/Redux for iOS and Android platforms. It was delivered on schedule.
-       4. Two WeChat mini programs on tourism training(旅业最强大脑/最美大脑小程序), people can practice alone, compete real-time one-on-one or take the final real-time group competition. I was responsible for the development of the mini programs with the react version of [Taro](https://taro.zone) framework and Redux. I was very excited to see hundreds of people compete online real-time.
+### Freelance Projects | Full-Stack Developer (Remote) | May 2022 – Feb 2024
 
-4. **Frontend Web Developer** - 蓝石创想（北京）科技有限公司 2/2016-11/2017
-    1. Building web apps with Angular/Laravel/MySQL, and mobile apps with Ionic.
-       1. Daren Website(答人留学官网). It is a similar site to [zaih.com](https://www.zaih.com), but focuses on the overseas study consultation. I was responsible for requirement analysis, database design, development of the admin panel, and the project was delivered on schedule.
-       2. [Junhe official Website(君和律所官网)](https://junhe.com) The project is bilingual. I was responsible for database design, front-end homepage development, and back-end article module development. I was also responsible for any difficulties encountered by team members during development, such as language switching, file upload/download/preview, rich text editor integration. We used pjax/Laravel/[UEditor](https://fex.baidu.com/ueditor)/Sass, etc.
-       3. Gene Testing Report System web app. It is a system used to generate reports according to a patient's gene mutation data and drugs. I was responsible for requirement analysis, database design, and feature implementation. We used Laravel/pjax/Sass/Bootstrap/[NG-ZORRO](https://ng.ant.design). We used [PrinceXML](https://www.princexml.com) to generate complex PDF reports.
-       4. A medical sample tracking app. This app was used by salespersons to track blood/tissue samples and manage patients and orders. I independently built this android app with Ionic and implemented [JPush(极光推送)](https://www.jiguang.cn) plugin to send notifications, and [Crosswalk](http://crosswalk-project.org) to improve performance. The main features include fingerprint authentication, notification, dynamic data form submissions, image compression and upload, sample/patient/order management. We delivered the app on schedule.
+Collaborated with international clients on various projects. Independently delivered websites, admin panels, and mobile apps using React, Vue, Laravel, and React Native.
 
-5. **Frontend Web Developer** - Xi'an Hundred Lanterns Network Technology Co., Ltd. 9/2013-1/2016
-    1. Building web apps with AngularJS/Backbone/Underscore/jQuery/Grunt/Gulp/Zend Framework/Compound.js/MySQL, and mobile apps with Cordova.
-       1. I was maintaining our own English learning product: Whyyu.com and implementing new features for clients apps, like Time Warner Cable website.
+### Dragontrail Interactive | Full-Stack Developer | Apr 2018 – Apr 2021
 
-Thank you for your time :)
+Led development of tourism platforms using React, Vue, Taro, Laravel, and MySQL. Delivered several WeChat Mini Programs, mobile apps, and CMS systems from end to end.
+
+### Bluestone Creative (Beijing) | Full-Stack Developer | Feb 2016 – Nov 2017
+
+Led development across multiple client projects using Angular, Ionic, and Laravel. Responsible for technical architecture, deployment, and maintenance.
+
+### Hundred Lanterns Network (Xi’an) | Full-Stack Developer | Sep 2013 – Jan 2016
+
+Developed and maintained an English learning platform and various overseas client projects. Worked with AngularJS, Cordova, PHP (Zend Framework). Handled full-cycle development and performance optimization.
+
+---
+
+## Featured Projects
+
+### 🖥 Online Slide Builder | SaaS Presentation Platform | Angular + Laravel + Socket.IO + NG-ZORRO
+
+Independently developed a SaaS platform for creating WebSlides.tv-style presentations. Features included slide templates, company-wide sharing, and remote slide control. Helped users streamline presentation creation and improve B2B engagement.
+
+### 📱 Germany Travel & Shopping Guide App | Tourism Companion App | React Native + Redux
+
+Built a mobile app for travelers in Germany, featuring travel guides, itinerary tracking, and interactive maps. Independently developed and published to both iOS and Android platforms.
+
+### 🌐 Chile National Tourism Website | Promotional Website | WordPress + Webpack
+
+Developed responsive frontend pages and optimized performance. Set up a custom automated build pipeline. Delivered on schedule with stable support for both mobile and desktop users.
+
+### 🧬 Genetic Testing Report System | Internal Reporting Platform | Laravel + NG-ZORRO + PrinceXML
+
+**Phase 1:** Participated in requirement analysis and database design; led development of drug dictionary and report generation workflows.  
+**Phase 2:** Refactored frontend architecture and implemented complex medical report PDF rendering with NG-ZORRO and PrinceXML. Led a small team to successful delivery, enabling the client to generate high-volume, high-precision medical reports efficiently and consistently.
+
+---
+
+## Education
+
+🎓 Xi’an International Studies University | English Major | TEM-8 Certified
+
+---
+
+## Selected Live Projects
+
+- [Aspecta AI](https://aspecta.ai/) — Web3 Identity App
+- [Los Angeles Knowledge Bank](http://knowledgebank.hellola.cn/) — Travel Resource Platform
+- [Chile Tourism Board Website](http://chiletravelofficial.cn/) — National Tourism Promotion Site
+- [Czechia Campaign (WeChat only)](https://minisite.dragontrail.com/activity/czechia_campaign) — Interactive Event Page
+- [Beijing 2020 Online Forum](https://traveltrade.visitbeijing.com.cn/forum) — Tourism Industry Forum
+- [JunHe Law Firm Website](https://junhe.com/) — Law Firm Website
+- [Pet Talk](https://www.gogotalkfun.com/) — Social Platform for Pet Enthusiasts

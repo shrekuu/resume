@@ -1,117 +1,80 @@
-[简体中文](./resume-zh.md)  
+[English version](./resume.md)
 
-**未完成**
+# 史林
 
-- **史林**
-- shrekuu@163.com
-- 陕西宝鸡
-- linkedin.com/in/shrekuu
-- 毕业于西安外国语大学英语专业，英语专业 8 级; 10 年 web 前后端开发, 小程序, 移动端开发经验
+📍 陕西宝鸡 | ✉️ shrekuu@163.com | 🌐 github.com/shrekuu](http://github.com/shrekuu)  
+🧑‍💻 10+ 年 Web 全栈开发经验 | 精通 React / Laravel / React Native / 小程序 | 英语专业八级  
+💡 多年远程协作经验，能快速独立完成全栈项目开发与交付
 
-## 我擅长,,, 
+---
 
-成都灼见万维科技有限公司
+## 技术栈
 
-- 使用 React/Vue/Angular/Laravel 开发高性能响应式网站；
-- 使用 Ionic/React Native(Expo) 开发健壮的 iOS 和 Android 应用；
-- 使用 Taro 框架开发健壮的微信小程序；
+- 前端：React, Vue, Angular, Next.js
+- 移动端：React Native (Expo), Ionic
+- 后端：Laravel, Nest.js, MySQL
+- 小程序：Taro, WePY, mpvue
+- 工具与其他：TypeScript, Webpack, Gulp, PrinceXML
 
+---
 
 ## 工作经历
 
-1. 2022年5月-现在 **Web 开发**
-   1. 从事远程全职 Web 开发工作, React/Vue/Laravel/React Native(Expo)
-2. 2022年1月-2022年5月 **自由职业 Web 开发**
-    1. 自由职业，远程接项目，直到找到全职远程工作。
-3. 2018年4月-2021年4月 **Web 开发** - 龙途互动
-    1. 主要负责公司项目的 Web 前后端功能开发，微信小程序开发，移动端原生应用开发。前端主要使用到 React/Vue/Angular，小程序开发使用 WePY/mpvue/Taro，移动端使用 React Native，后端主要使用到 Laravel/MySQL。
-4. 2016年2月-2017年11月 **Web 开发** - 蓝石创想（北京）科技有限公司
-    1. 主要负责公司项目的需求分析、技术选型与指导、功能开发与维护、服务器配置与项目部署、文档编写与维护。前端主要用到 Angular，移动端使用 Ionic，后端使用 Laravel/MySQL。
-5. 2013年9月-2016年1月 **Web 开发** - 西安佰登网络科技有限公司
-    1. 主要负责公司运营的英语学习项目前后端及混合应用的开发维护，及其它国外项目的功能开发与维护。前端主要使用到 AngularJS/Backbone/Underscore/jQuery/Grunt/Gulp，移动端主要使用到 Cordova，后端主要使用到 PHP/Zend Framework/Compound.js/MySQL。
+### Aspecta AI | 前端开发（远程） | 2023 年 5 月 - 2025 年 4 月
 
-## 项目示例
+使用 React / Next.js / TypeScript 构建 Web3 应用，主导钱包连接、链上合约交互等关键模块开发，并带小团队完成多个产品迭代。
 
-### 1. 在线幻灯片制作网站
+### 数字游民 | 2022 年 5 月 - 2024 年 2 月
 
-> - 用户端网址：https://user.slideshow.projects.linwise.com
-> - 管理端网址：https://admin.slideshow.projects.linwise.com
+独立承接多个客户项目，技术栈涵盖 React、Vue、Laravel、React Native。涉及企业官网、后台管理系统、App 等，负责从需求拆解到交付全流程。
 
- 这是一个无需编码即可创建像 [webslides.tv](https://webslides.tv) 这样的幻灯片的项目（用户端与管理端不可同时登录）。用户可以在公司帐户之间共享幻灯片和模板。用户可以通过密码共享幻灯片，可以远程控制幻灯片切换/播放视频，就像做演讲时的PPT演示一样。管理员可以管理公司和全局模板。这个项目是我使用 Angular/Laravel/MySQL/[NG-ZORRO](https://ng.ant.design)/[Socket.IO](https://socket.io) 独立开发的。
+### 龙途互动 | 全栈开发 | 2018 年 4 月 - 2021 年 4 月
 
-### 2. 一个旅游推广SPA（仅可在微信里玩）
+主导旅游行业多个线上平台开发，技术栈包括 React、Vue、Taro、Laravel、MySQL。涵盖小程序、App、CMS 系统等，多个项目独立开发上线。
 
-> - 网址：https://minisite.dragontrail.com/activity/czechia_campaign
+### 蓝石创想（北京） | 全栈开发 | 2016 年 2 月 - 2017 年 11 月
 
-它是捷克旅游推广活动的单页应用。参与者选择图像以生成新的海报图像，然后将其发送给朋友以邀请他们投票。我负责前端页面。用到了 Vite/Vue/Pinia/html2Canvas。它按计划交付。
+带开发团队参与多个客户项目开发与部署，使用 Angular、Ionic、Laravel 技术栈，负责技术选型、部署运维与后期维护。
 
-### 3. 智利国家旅游局官网
+### 西安佰登网络 | 全栈开发 | 2013 年 9 月 - 2016 年 1 月
 
-> - 网址：http://chiletravelofficial.cn
+开发维护英语学习平台及外包客户项目，使用 AngularJS、Cordova、PHP/Zend Framework，负责功能实现与系统优化。
 
-后端是 WordPress，我负责前端页面。我用 Webpack 搭建前端自动化工具，开发移动端与PC端页面，项目如期交付。
+---
 
-### 4. 更多旅游相关的网站
+## 项目经验
 
-> - [北京2020线上论坛](https://traveltrade.visitbeijing.com.cn/forum)
-> - [北京产品目录](https://productcatalogue.traveltrade.visitbeijing.com.cn/product/list/cc8929b?lang=zh-CN)
-> - [秘鲁产品目录](http://www.dingla.com/product/list/3e7517b)
-> - [洛杉矶知识库网站](http://knowledgebank.hellola.cn)
+### 🖥 在线幻灯片制作平台 | SaaS 类 Web PPT 演示平台 | Angular + Laravel + Socket.IO + NG-ZORRO
 
-这些是我开发的一些页面。使用了 Laravel/Vue/jQuery。就不细讲了。
+独立开发为生成 [WebSlides.tv](https://webslides.tv/) 响应式幻灯片的 SaaS 平台，支持幻灯片模板、公司账户共享、远程控制播放等功能；上线后助力客户高效制作演示材料，提升 B2B 演示转化率。
 
-### 5. 『德国自驾购物』应用，有 iOS、安卓版
+### 📱 德国自驾购物 App | 旅游指南类 App | React Native + Redux
 
-是一个在德国自驾游的指南应用。人们也可以在其中记录他们的旅行。主要使用到 React Native/Redux，最后打包到 iOS 和安卓平台。如期交付。
+为德国游客设计的出行指南 App，支持行程记录、地图浏览等功能；独立完成 iOS/安卓双端开发，按时上线并投入实际使用。
 
-### 6. 『旅业最强大脑』和『最美大脑』两个微信小程序
+### 🌐 智利国家旅游局官网 | 外国旅游推广站 | WordPress + Webpack
 
-这是一个旅业培训小程序，里面都是选择题。人们可以单独练习、实时一对一比赛或参加最后的实时小组比赛。我负责小程序端开发，使用了 React 写法的 Taro 框架和 Redux。这是我写过的最开心的一个项目，因为能看到旅业的伙伴们实时的比赛数据。
+负责响应式页面开发和前端性能优化，独立搭建自动化构建工具链；项目如期交付，适配 PC 和移动端访问，稳定运营中。
 
-### 7. 一个移动应用测试网站（岳海云测网站）
+### 🧬 基因检测报告系统 | 企业内部报告生成工具 | Laravel + NG-ZORRO + PrinceXML
 
-> - 网址：http://cloudtesting.projects.linwise.com
+一期：参与需求分析与数据库设计，主导用药字典与报告生成流程模块开发；  
+二期：重构前端架构，使用 NG-ZORRO + PrinceXML 实现复杂医学报告的高质量 PDF 输出，并带领前端小团队完成项目交付，提升客户在日常业务中批量生成医学报告的效率与稳定性。
 
-独立开发项目。仅按 UI 稿实现前端静态页面，没有其它需求，无后端。我考虑页面组件 拆分复用，使用 gulp 配合插件做 HTML 合并，静态资源压缩等功能，并按 UI 稿完成所有页面，并在部分页面添加 JS 以实现基本交互。如期交付。
+---
 
-### 8. 蓝石创想官网
+## 教育背景
 
-> - 网址：https://bluestoneapp.projects.linwise.com/
+🎓 西安外国语大学 英语专业 | 英语专业八级
 
-独立开发，响应式布局。虽然仅有一页，但仍按需求严格优化了页面加载速度，有静态资源压缩和图片懒加载。
+---
 
-### 9. 答人留学官网
+## 部分上线项目链接（可公开访问）
 
-> - 网址：http://daren.projects.linwise.com
-> - 管理后台网址：http://daren.projects.linwise.com/admin
-
-功能类似 『在行』(zaih.com) 的留学咨询项目。项目主要分为两大模块：面向学员与达人的预约、评价、认证的前台，面向管理员的数据更新与审核的后台。我主要与甲方详聊需求，划分功能模块，然后负责数据库设计，基础框架搭建，后台管理模块前后端开发，并辅助前台前端开发，项目如期交付。
-
-### 10. 君和律所官网
-
-> - 网址：https://junhe.com
-> 示例后台网址：https://junhe.projects.linwise.com/admin
-
-项目为中英双语，主要分为前台展示与后台内容管理模块。部分功能并非中英都有。我主要负责数据库设计，基础框架搭建，前台首页样式布局，后台文章部分模块，辅助解决同事在开发过程中的遇到的部分问题，比如语言切换，动态嵌套表单，文件上传下载预览，富文本编辑器集成与配置等。主要使用到 pjax/Laravel/UEditor/Sass.
-
-### 11. 基因检测报告系统
-
-#### 一期开发
-
-> - 网址：https://genecrab-report.projects.linwise.com
-
-这是某公司内部员工使用的报告系统，他们需要一个能够根据用户的基因检测结果，生成一份有针对性的用药报告的系统。具体将患者的 DNA 检测结果在系统用药字典数据里查询得到针对患者的可靠用药信息，医学人员在线编辑审核后，后台生成 Word/PDF 格式报告下载下来。此项目分为两期，一期我与老板同去北京甲方公司驻厂参与需求分析与功能模块划分。回西安后我主要负责数据库设计（主要为用药字典数据与用户报告信息数据），项目基础框架搭建，用药字典模块与报告编辑流程模块开发。主要使用到 Laravel/pjax/Sass/Bootstrap。
-
-#### 二期开发
-
-> - 网址：http://genecrab-report-angular.projects.linwise.com
-
-二期功能，前后端分离，前端由 Bootstrap + jQuery 换为 [NG-ZORRO](https://ng.ant.design)，我主要负责前端框架搭建，报告编辑流程，使用 [PrinceXML](https://www.princexml.com) 渲染复杂的 PDF 报告样式布局，带领前端小团队，培训新人，帮助解决项目遇到的各种前后端难题。
-
-### 12. 一个样本追踪应用
-
-> [示例安卓应用下载](https://sample-tracking.projects.linwise.com/upload/genecast-sample-tracking-dev.apk)
-
-某生信公司销售人员用来跟踪血液/组织样本并管理患者和订单的应用。此应用是我使用了 Ionic 框架独立开发完成。主要功能有指纹认证登录、极光推送通知、动态表单控件、拍照与照片批量压缩上传、样本、患者和订单信息的增删改查及搜索。集成 [Crosswalk](http://crosswalk-project.org) 以提高性能。
-
-感谢您的阅读 :)
+- [Aspecta AI 官网](http://aspecta.ai/)（Web3 交易 App）
+- [洛杉矶知识库网站](http://knowledgebank.hellola.cn/)（城市旅游知识库）
+- [智利国家旅游局官网](http://chiletravelofficial.cn/)（旅游推广站）
+- [畅游捷克活动](https://minisite.dragontrail.com/activity/czechia_campaign)（微信内单页活动）
+- [北京 2020 线上论坛](https://traveltrade.visitbeijing.com.cn/forum)（国际旅游交流论坛）
+- [君和律所官网](https://junhe.com/)（法律服务企业官网）
+- [宠物 Talk](https://www.gogotalkfun.com/)（宠物社交类平台官网）
