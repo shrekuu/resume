@@ -3,7 +3,7 @@
 # 史林
 
 📍 陕西宝鸡 | ✉️ shrekuu@163.com | 🌐 github.com/shrekuu](http://github.com/shrekuu)  
-🧑‍💻 10+ 年 Web 全栈开发经验 | 精通 React / Laravel / React Native / 小程序 | 英语专业八级  
+🧑‍💻 10+ 年 Web 全栈开发经验 | 熟悉 React / Laravel / React Native / 小程序 | 英语专业八级  
 💡 多年远程协作经验，能快速独立完成全栈项目开发与交付
 
 ---
