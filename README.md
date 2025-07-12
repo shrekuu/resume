@@ -44,13 +44,17 @@ Developed and maintained an English learning platform and various overseas clien
 
 ## Featured Projects
 
+### 🌐 Aspecta AI | Web3 Trading App | Next.js
+
+Led the frontend team to develop the frontend of Aspecta AI Web3 trading app. Built responsive web pages for both desktop and mobile using Next.js. Implemented wallet connections and smart contract interactions.
+
 ### 🖥 Online Slide Builder | SaaS Presentation Platform | Angular + Laravel + Socket.IO + NG-ZORRO
 
 Independently developed a SaaS platform for creating WebSlides.tv-style presentations. Features included slide templates, company-wide sharing, and remote slide control. Helped users streamline presentation creation and improve B2B engagement.
 
 ### 📱 Germany Travel & Shopping Guide App | Tourism Companion App | React Native + Redux
 
-Built a mobile app for travelers in Germany, featuring travel guides, itinerary tracking, and interactive maps. Independently developed and published to both iOS and Android platforms.
+Built a mobile app for Chinese travelers in Germany, featuring travel guides, itinerary tracking, and interactive maps. Independently developed and published to both iOS and Android platforms.
 
 ### 🌐 Chile National Tourism Website | Promotional Website | WordPress + Webpack
 

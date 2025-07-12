@@ -44,13 +44,17 @@
 
 ## 项目经验
 
+### 🌐 Aspecta AI | Web3 交易 App | Next.js
+
+带领前端团队开发 Aspecta AI Web3 交易 App 前端页面。使用 Next.js 构建 PC 端与移动端页面，集成钱包连接和链上合约交互功能。
+
 ### 🖥 在线幻灯片制作平台 | SaaS 类 Web PPT 演示平台 | Angular + Laravel + Socket.IO + NG-ZORRO
 
 独立开发为生成 [WebSlides.tv](https://webslides.tv/) 响应式幻灯片的 SaaS 平台，支持幻灯片模板、公司账户共享、远程控制播放等功能；上线后助力客户高效制作演示材料，提升 B2B 演示转化率。
 
 ### 📱 德国自驾购物 App | 旅游指南类 App | React Native + Redux
 
-为德国游客设计的出行指南 App，支持行程记录、地图浏览等功能；独立完成 iOS/安卓双端开发，按时上线并投入实际使用。
+为前往德国的中国游客开发的出行指南 App，主要功能有景点信息查看、行程记录、地图浏览等功能；使用 React Native 独立完成 iOS/安卓双端开发，按时上线并投入实际使用。
 
 ### 🌐 智利国家旅游局官网 | 外国旅游推广站 | WordPress + Webpack
 
