@@ -1,0 +1,170 @@
+{
+  "pageHeader": "Lin Shi — Full-Stack Web / Mini Program / Mobile App Dev — Remote — 562063003@qq.com",
+  "name": "Lin Shi",
+  "location": "Baoji, Shaanxi, China",
+  "email": "562063003@qq.com",
+  "github": "https://github.com/shrekuu",
+  "summary": [
+    "10+ years of full-stack web development experience",
+    "Proficient in React / Laravel / React Native / WeChat Mini Programs | TEM-8 (Test for English Majors, Band 8)",
+    "Proven remote collaboration skills with a strong track record of independently delivering full-stack solutions"
+  ],
+  "techStack": {
+    "title": "Tech Stack",
+    "items": [
+      "Frontend: React, Next.js",
+      "Mobile: React Native (Expo)",
+      "Backend: Laravel, Nest.js, PostgreSQL",
+      "Mini Programs: Taro"
+    ]
+  },
+  "workExperience": {
+    "title": "Work Experience",
+    "items": [
+      {
+        "company": "Aspecta AI",
+        "title": "Web Frontend Developer",
+        "remote": true,
+        "start": "May 2023",
+        "end": "Apr 2025",
+        "description": [
+          "Built Web3 applications using React, Next.js, and TypeScript. Led the development of wallet integration and smart contract interaction modules. Managed a small frontend team and delivered multiple product releases."
+        ]
+      },
+      {
+        "company": "Freelancer",
+        "title": "Web Full-Stack Developer",
+        "remote": true,
+        "start": "May 2022",
+        "end": "Feb 2024",
+        "description": [
+          "Collaborated with international clients on various projects. Independently delivered websites, admin panels, and mobile apps using React, Vue, Laravel, and React Native."
+        ]
+      },
+      {
+        "company": "Dragontrail Interactive",
+        "title": "Senior Web Frontend Developer",
+        "remote": false,
+        "start": "Apr 2018",
+        "end": "Apr 2021",
+        "description": [
+          "Led development of tourism platforms using React, Vue, Taro, Laravel, and MySQL. Delivered several WeChat Mini Programs, mobile apps, and CMS systems from end to end."
+        ]
+      },
+      {
+        "company": "蓝石创想（北京）科技有限公司",
+        "title": "Web Frontend Developer",
+        "remote": false,
+        "start": "Feb 2016",
+        "end": "Nov 2017",
+        "description": [
+          "Led development across multiple client projects using Angular, Ionic, and Laravel. Responsible for technical architecture, deployment, and maintenance."
+        ]
+      },
+      {
+        "company": "西安佰登网络科技有限公司",
+        "title": "Web Frontend Engineer",
+        "remote": false,
+        "start": "Sep 2013",
+        "end": "Jan 2016",
+        "description": [
+          "Developed and maintained an English learning platform and various overseas client projects. Worked with AngularJS, Cordova, PHP (Zend Framework). Handled full-cycle development and performance optimization."
+        ]
+      }
+    ]
+  },
+  "projectExperience": {
+    "title": "Projects",
+    "items": [
+      {
+        "title": "Aspecta AI",
+        "type": "Web3 Trading App",
+        "tech": "Next.js",
+        "description": [
+          "Led the frontend team to develop the frontend of Aspecta AI Web3 trading app. Built responsive web pages for both desktop and mobile using Next.js. Implemented wallet connections and smart contract interactions."
+        ]
+      },
+      {
+        "title": "Online Slide Builder",
+        "type": "SaaS Presentation Platform",
+        "tech": "Angular + Laravel + Socket.IO + NG-ZORRO",
+        "description": [
+          "Independently developed a SaaS platform for creating WebSlides.tv-style presentations. Features included slide templates, company-wide sharing, and remote slide control. Helped users streamline presentation creation and improve B2B engagement."
+        ]
+      },
+      {
+        "title": "Germany Travel & Shopping Guide App",
+        "type": "Tourism Companion App",
+        "tech": "React Native + Redux",
+        "description": [
+          "Built a mobile app for Chinese travelers in Germany, featuring travel guides, itinerary tracking, and interactive maps. Independently developed and published to both iOS and Android platforms."
+        ]
+      },
+      {
+        "title": "Chile National Tourism Website",
+        "type": "Promotional Website",
+        "tech": "WordPress + Webpack",
+        "description": [
+          "Developed responsive frontend pages and optimized performance. Set up a custom automated build pipeline. Delivered on schedule with stable support for both mobile and desktop users."
+        ]
+      },
+      {
+        "title": "Genetic Testing Report System",
+        "type": "Internal Reporting Platform",
+        "tech": "Laravel + NG-ZORRO + PrinceXML",
+        "description": [
+          "**Phase 1:** Participated in requirement analysis and database design; led development of drug dictionary and report generation workflows.",
+          "**Phase 2:** Refactored frontend architecture and implemented complex medical report PDF rendering with NG-ZORRO and PrinceXML. Led a small team to successful delivery, enabling the client to generate high-volume, high-precision medical reports efficiently and consistently."
+        ]
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "school": "Xi’an International Studies University",
+        "major": "English Major",
+        "degree": "BA",
+        "certifications": [
+          "TEM-8 Certified"
+        ]
+      }
+    ]
+  },
+  "liveProjects": {
+    "title": "Selected Live Projects",
+    "items": [
+      {
+        "name": "Aspecta AI",
+        "url": "https://aspecta.ai/",
+        "description": "Web3 Trading App"
+      },
+      {
+        "name": "Los Angeles Travel Knowledge Bank",
+        "url": "http://knowledgebank.hellola.cn/",
+        "description": "Travel Resource Platform"
+      },
+      {
+        "name": "Chilean National Tourism Board Chinese official website",
+        "url": "http://chiletravelofficial.cn/",
+        "description": "National Tourism Promotion Site"
+      },
+      {
+        "name": "Czech Tourism Promotion Campaign(WeChat only)",
+        "url": "https://minisite.dragontrail.com/activity/czechia_campaign",
+        "description": "Campaign Page"
+      },
+      {
+        "name": "Beijing Tourism Global Strategic Cooperation Online Forum",
+        "url": "https://traveltrade.visitbeijing.com.cn/forum",
+        "description": "Tourism Industry Forum"
+      },
+      {
+        "name": "JunHe Law Firm Website",
+        "url": "https://junhe.com/",
+        "description": "Law Firm Website"
+      }
+    ]
+  }
+}
