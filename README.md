@@ -4,7 +4,7 @@ A simple, clean, and responsive resume built with **Next.js**, **Tailwind CSS**,
 
 I wasn’t satisfied with existing online resume templates, so I built my own — fully customizable and optimized for print and PDF export.
 
-🌐 Live site: [shrekuu.github.io/shrekuu](https://shrekuu.github.io/shrekuu)
+🌐 Live site: [shrekuu.github.io/resume/](https://shrekuu.github.io/resume/)
 
 ## Features
 
