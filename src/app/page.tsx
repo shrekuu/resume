@@ -10,6 +10,8 @@ import ResumeZhData from './resume_zh.json';
 type TResume = {
   filename: string;
   pageHeader: string;
+  pageTitle: string;
+  pageDescription: string;
   name: string;
   location: string;
   email: string;
@@ -81,6 +83,7 @@ export default function ResumePage() {
       document.title = originalTitleRef.current;
     };
 
+    document.title = data.pageTitle;
     window.addEventListener('beforeprint', handleBeforePrint);
     window.addEventListener('afterprint', handleAfterPrint);
 
