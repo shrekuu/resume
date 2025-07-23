@@ -14,6 +14,7 @@ type TResume = {
   pageDescription: string;
   name: string;
   location: string;
+  wechat: string;
   email: string;
   github: string;
   summary: string[];
@@ -76,7 +77,7 @@ export default function ResumePage() {
   useEffect(() => {
     const handleBeforePrint = () => {
       originalTitleRef.current = document.title;
-      document.title = `${data.filename}- ${DateTime.now().toFormat('yyyy-MM-dd')}`;
+      document.title = `${data.filename}_${DateTime.now().toFormat('yyyy-MM-dd')}`;
     };
 
     const handleAfterPrint = () => {
@@ -109,9 +110,9 @@ export default function ResumePage() {
           <h1 className="text-xl font-bold sm:text-2xl">{data.name}</h1>
         </div>
 
-        <div className="mb-3 space-y-1 text-xs sm:mb-2 sm:flex sm:flex-wrap sm:space-y-0 sm:gap-y-1">
+        <div className="mb-3 space-y-1 text-sm sm:mb-2 sm:flex sm:flex-wrap sm:space-y-0 sm:gap-y-1">
           <p className="break-all sm:break-normal">
-            {data.location} | {data.email}&nbsp;
+            {data.location} | {data.wechat} | {data.email}&nbsp;
           </p>
           <p className="sm:flex-shrink-0">
             <span className="hidden sm:inline">| </span>
