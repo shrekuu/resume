@@ -1,4 +1,5 @@
 {
+  "lang": "zh",
   "filename": "史林_求职_web全栈",
   "pageTitle": "史林的简历",
   "pageDescription": "10+ 年 Web 全栈开发。",
@@ -30,7 +31,7 @@
         "company": "Aspecta AI",
         "title": "Web 前端开发",
         "remote": true,
-        "start": "2023 年 5 月",
+        "start": "2022 年 5 月",
         "end": "2025 年 4 月",
         "description": [
           "使用 React / Next.js / TypeScript 构建 Web3 应用，主导钱包连接、链上合约交互等关键模块开发，并带小团队完成多个产品迭代。"
@@ -40,8 +41,8 @@
         "company": "自由职业者",
         "title": "Web 全栈开发",
         "remote": true,
-        "start": "2022 年 5 月",
-        "end": "2024 年 2 月",
+        "start": "2021 年 4 月",
+        "end": "2022 年 5 月",
         "description": [
           "独立承接多个客户项目，技术栈涵盖 React、Vue、Laravel、React Native。涉及企业官网、后台管理系统、App 等，负责从需求拆解到交付全流程。"
         ]
@@ -126,7 +127,7 @@
     "title": "教育经历",
     "items": [
       {
-        "school": "西安外国语大学",
+        "school": "2008-2012，西安外国语大学",
         "major": "英语专业",
         "degree": "本科",
         "certifications": [

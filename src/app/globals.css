@@ -1,5 +1,5 @@
-@import "tailwindcss";
-@import "tw-animate-css";
+@import 'tailwindcss';
+@import 'tw-animate-css';
 
 @custom-variant dark (&:is(.dark *));
 
@@ -7,7 +7,7 @@
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: inter, systems-ui, sans-serif;
-  --font-mono: "Source Code Pro", monaco, menlo, consolas, monospace;
+  --font-mono: 'Source Code Pro', monaco, menlo, consolas, monospace;
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
@@ -65,25 +65,25 @@
     margin: 0.5in;
     /* Remove default browser headers and footers */
     @top-left {
-      content: "";
+      content: '';
     }
     @top-center {
-      content: var(--page-header, "");
+      content: var(--page-header, '');
       font-size: 12px;
       font-family: Arial, sans-serif;
       @apply text-gray-500;
     }
     @top-right {
-      content: "";
+      content: '';
     }
     @bottom-left {
-      content: "";
+      content: '';
     }
     @bottom-center {
-      content: "";
+      content: '';
     }
     @bottom-right {
-      content: "";
+      content: '';
     }
   }
 
@@ -226,4 +226,27 @@
   body {
     @apply bg-background text-foreground;
   }
+}
+
+@layer utilities {
+  /* dev-only helpers -- BEGIN */
+  .bo1 {
+    outline: 1px dashed deeppink !important;
+  }
+  .bo2 {
+    outline: 1px dashed rgb(8, 167, 252) !important;
+  }
+  .bo3 {
+    outline: 1px dashed rgb(255, 204, 0) !important;
+  }
+  .bd1 {
+    border: 1px solid deeppink !important;
+  }
+  .bd2 {
+    border: 1px solid rgb(8, 167, 252) !important;
+  }
+  .bd3 {
+    border: 1px solid rgb(255, 204, 0) !important;
+  }
+  /* dev-only helpers -- END */
 }
