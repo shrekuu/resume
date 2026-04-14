@@ -2,31 +2,44 @@
   "lang": "zh",
   "filename": "史林_求职_web全栈",
   "pageTitle": "史林的简历",
-  "pageDescription": "10+ 年 Web 全栈开发。",
-  "pageHeader": "史林 — Web 全栈 / 小程序 / 移动端 app 开发 — 远程 — shrekuu@gmail.com",
+  "pageDescription": "12+ 年 Web 全栈 / AI 产品开发。",
+  "pageHeader": "史林 — Web 全栈 / 移动端 / AI 产品开发 — 远程 — shrekuu@gmail.com",
   "name": "史林",
   "location": "陕西宝鸡",
   "wechat": "微信：shrekuu",
   "email": "shrekuu@gmail.com",
   "github": "https://github.com/shrekuu",
   "summary": [
-    "10+ 年 Web 全栈开发经验",
-    "熟悉 React / Laravel / React Native / 小程序",
+    "12+ 年 Web 全栈开发经验，当前专注 AI 产品开发",
+    "熟悉 React / Next.js / Expo / Laravel / Prisma / PostgreSQL",
+    "善用 AI 辅助开发工作流，提升个人全栈产品交付效率",
     "英语专业八级",
     "多年远程协作经验，能快速独立完成全栈项目开发与交付"
   ],
   "techStack": {
     "title": "技术栈",
     "items": [
-      "前端：React, Next.js",
+      "前端：React, Next.js, TypeScript",
       "移动端：React Native (Expo)",
-      "后端：Laravel, Nest.js, PostgreSQL",
+      "后端：Laravel, Nest.js, Prisma, PostgreSQL, Redis",
+      "AI 与工具：AI 辅助开发（Copilot、Cursor）、提示工程",
       "小程序：Taro"
     ]
   },
   "workExperience": {
     "title": "工作经历",
     "items": [
+      {
+        "company": "StarAI（STARSPHERE NEOINTELLI LIMITED）",
+        "title": "全栈开发",
+        "remote": true,
+        "start": "2025 年 4 月",
+        "end": "至今",
+        "description": [
+          "与团队共同开发 AI 产品 starai.pro 和 aniani.ai；独立开发 mysticx.ai —— AI 塔罗 Web 应用（Next.js、Prisma、BullMQ、Redis、PostgreSQL）及移动端 App（Expo，支持 iOS 和 Android）。",
+          "善用 AI 辅助开发工作流，以全栈独立开发者身份加速产品交付。"
+        ]
+      },
       {
         "company": "Aspecta AI",
         "title": "Web 前端开发",
@@ -80,6 +93,22 @@
   "projectExperience": {
     "title": "项目经验",
     "items": [
+      {
+        "title": "Mysticx.ai",
+        "type": "AI 塔罗 Web 与移动端 App",
+        "tech": "Next.js + Prisma + BullMQ + Redis + PostgreSQL + Expo",
+        "description": [
+          "独立开发 AI 塔罗占卜平台，包含 Web 端与移动端。Web 端使用 Next.js、Prisma、BullMQ、Redis、PostgreSQL 构建；移动端使用 Expo 开发，支持 iOS 和 Android。借助 AI 辅助开发，以一人之力完成全栈交付。"
+        ]
+      },
+      {
+        "title": "StarAI 产品（starai.pro 和 aniani.ai）",
+        "type": "AI 视频创作与交易平台",
+        "tech": "Next.js + TypeScript",
+        "description": [
+          "与开发团队协作构建 AI 产品，starai.pro 是 AI 视频创作与交易平台。负责多条产品线的全栈开发。"
+        ]
+      },
       {
         "title": "Aspecta AI",
         "type": "Web3 交易 App",
@@ -139,6 +168,21 @@
   "liveProjects": {
     "title": "部分在线项目",
     "items": [
+      {
+        "name": "Mysticx.ai",
+        "url": "https://mysticx.ai/",
+        "description": "AI 塔罗 App"
+      },
+      {
+        "name": "AniAni.ai",
+        "url": "https://aniani.ai/",
+        "description": "AI 产品"
+      },
+      {
+        "name": "StarAI",
+        "url": "https://starai.pro/",
+        "description": "AI 视频创作与交易平台"
+      },
       {
         "name": "Aspecta AI 官网",
         "url": "http://aspecta.ai/",

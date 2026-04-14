@@ -2,30 +2,43 @@
   "lang": "en",
   "filename": "lin-shi_for-hire_full-stack-web-development",
   "pageTitle": "Lin Shi's Resume",
-  "pageDescription": "Full Stack Web Developer with 10+ years of experience in web development.",
-  "pageHeader": "Lin Shi — Full-Stack Web / Mini Program / Mobile App Dev — Remote — shrekuu@gmail.com",
+  "pageDescription": "Full-Stack Developer with 12+ years of experience in web and AI product development.",
+  "pageHeader": "Lin Shi — Full-Stack Web / Mobile / AI Product Dev — Remote — shrekuu@gmail.com",
   "name": "Lin Shi",
   "location": "Baoji, Shaanxi, China",
   "wechat": "WeChat: shrekuu",
   "email": "shrekuu@gmail.com",
   "github": "https://github.com/shrekuu",
   "summary": [
-    "10+ years of full-stack web development experience",
-    "Proficient in React / Laravel / React Native / WeChat Mini Programs | TEM-8 (Test for English Majors, Band 8)",
+    "12+ years of full-stack web development experience, currently focused on AI-powered products",
+    "Proficient in React / Next.js / Expo / Laravel / Prisma / PostgreSQL | TEM-8 (Test for English Majors, Band 8)",
+    "Embracing AI-assisted development workflows to accelerate solo product delivery",
     "Proven remote collaboration skills with a strong track record of independently delivering full-stack solutions"
   ],
   "techStack": {
     "title": "Tech Stack",
     "items": [
-      "Frontend: React, Next.js",
+      "Frontend: React, Next.js, TypeScript",
       "Mobile: React Native (Expo)",
-      "Backend: Laravel, Nest.js, PostgreSQL",
+      "Backend: Laravel, Nest.js, Prisma, PostgreSQL, Redis",
+      "AI & Tooling: AI-assisted development (Copilot, Cursor), prompt engineering",
       "Mini Programs: Taro"
     ]
   },
   "workExperience": {
     "title": "Work Experience",
     "items": [
+      {
+        "company": "StarAI (STARSPHERE NEOINTELLI LIMITED)",
+        "title": "Full-Stack Developer",
+        "remote": true,
+        "start": "Apr 2025",
+        "end": "Present",
+        "description": [
+          "Building AI-powered products including starai.pro and aniani.ai with the team, and solo-building mysticx.ai — an AI tarot web app (Next.js, Prisma, BullMQ, Redis, PostgreSQL) and mobile app (Expo for iOS and Android).",
+          "Leveraging AI-assisted development workflows to accelerate product delivery as a solo full-stack developer."
+        ]
+      },
       {
         "company": "Aspecta AI",
         "title": "Web Frontend Developer",
@@ -78,6 +91,22 @@
   "projectExperience": {
     "title": "Projects",
     "items": [
+      {
+        "title": "Mysticx.ai",
+        "type": "AI Tarot Web & Mobile App",
+        "tech": "Next.js + Prisma + BullMQ + Redis + PostgreSQL + Expo",
+        "description": [
+          "Solo-building an AI-powered tarot reading platform with both web and mobile clients. Web app built with Next.js, Prisma, BullMQ, Redis, and PostgreSQL; mobile app built with Expo targeting iOS and Android. Leveraging AI-assisted development to ship as a one-person team."
+        ]
+      },
+      {
+        "title": "StarAI Products (starai.pro & aniani.ai)",
+        "type": "AI Video Creation & Trading Platform",
+        "tech": "Next.js + TypeScript",
+        "description": [
+          "Collaborating with the development team to build AI-powered products. starai.pro is an AI video creation and trading platform. Responsible for full-stack development across multiple product lines."
+        ]
+      },
       {
         "title": "Aspecta AI",
         "type": "Web3 Trading App",
@@ -137,6 +166,21 @@
   "liveProjects": {
     "title": "Selected Live Projects",
     "items": [
+      {
+        "name": "Mysticx.ai",
+        "url": "https://mysticx.ai/",
+        "description": "AI Tarot App"
+      },
+      {
+        "name": "AniAni.ai",
+        "url": "https://aniani.ai/",
+        "description": "AI Product"
+      },
+      {
+        "name": "StarAI",
+        "url": "https://starai.pro/",
+        "description": "AI Video Creation & Trading Platform"
+      },
       {
         "name": "Aspecta AI",
         "url": "https://aspecta.ai/",
